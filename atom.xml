@@ -27,10 +27,23 @@
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+
+Quick Start
+Create a new post
+1
+
+
+$ hexo new &quot;My New Post&quot;
+
+
+More info: Writing
+
+Run server
+1
+
+
+$ hexo s
     
     </summary>
     
