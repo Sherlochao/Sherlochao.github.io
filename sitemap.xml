@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sherlochao.github.io/2019/06/02/hello-world/</loc>
+    
+    <lastmod>2019-06-02T04:30:06.676Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://sherlochao.github.io/2019/06/02/leetcode/test/</loc>
     
     <lastmod>2019-06-02T03:13:26.923Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://sherlochao.github.io/tags/index.html</loc>
     
     <lastmod>2019-06-01T12:06:01.264Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://sherlochao.github.io/2019/06/01/hello-world/</loc>
-    
-    <lastmod>2019-06-01T08:30:15.350Z</lastmod>
     
   </url>
   
