@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sherlochao.github.io/"/>
-  <updated>2019-06-03T15:10:56.597Z</updated>
+  <updated>2019-06-03T15:13:00.152Z</updated>
   <id>https://sherlochao.github.io/</id>
   
   <author>
@@ -17,15 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>page</title>
-    <link href="https://sherlochao.github.io/2019/06/03/leetcode/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/"/>
-    <id>https://sherlochao.github.io/2019/06/03/leetcode/两数之和/</id>
+    <title>两数之和</title>
+    <link href="https://sherlochao.github.io/2019/06/03/leetcode/twoSum/"/>
+    <id>https://sherlochao.github.io/2019/06/03/leetcode/twoSum/</id>
     <published>2019-06-03T15:10:56.000Z</published>
-    <updated>2019-06-03T15:10:56.597Z</updated>
+    <updated>2019-06-03T15:13:00.152Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="leetcode" scheme="https://sherlochao.github.io/categories/leetcode/"/>
     
     
   </entry>
