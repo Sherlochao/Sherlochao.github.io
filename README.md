@@ -1,3 +1,4 @@
-﻿写给女朋友的生日礼物</br>
-原作出处https://github.com/bxm0927/canvas-special.git
+# 放烟花效果展示
+
+[https://tzs199373.github.io/fire-love/fire.html](https://tzs199373.github.io/fire-love/fire.html)
 
